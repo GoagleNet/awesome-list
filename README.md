@@ -8,7 +8,7 @@
 - [Youtube - Video-sharing platform](https://youtube.com/)
 - [Facebook - Social media](https://facebook.com/)
 - [Instagram - Social media](https://instagram.com/)
-- [-ChatGPT - Chatbot](https://chatgpt.com/)
+- [ChatGPT - Chatbot](https://chatgpt.com/)
 - [Reddit - Social media](https://reddit.com/)
 - [Wikipedia - Encyclopedia](https://wikipedia.org/)
 - [Pornhub - Pornography](https://pornhub.com/)
