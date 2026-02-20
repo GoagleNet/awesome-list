@@ -368,3 +368,16 @@
 - [Tizen](https://www.tizen.org/)
 - [tomsrtbt](https://en.wikipedia.org/wiki/Tomsrtbt/)
 - [Void Linux](https://voidlinux.org/)
+
+## Router and firewall systems
+
+- [Endian Firewall](https://www.endian.com/)
+- [FRRouting](https://frrouting.org/)
+- [Gargoyle](https://www.gargoyle-router.com/)
+- [IPFire](https://www.ipfire.org/)
+- [LibreCMC](https://librecmc.org/)
+- [Openwall](https://openwall.com/)
+- [OPNsense](https://opnsense.org/)
+- [pfSense](https://www.pfsense.org/)
+- [Sophos](https://www.sophos.com/)
+- [tomato](https://freshtomato.org/)
